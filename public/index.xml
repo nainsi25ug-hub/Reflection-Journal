@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>https://example.org/</link>
+    <link>https://github.com/nainsi25ug-hub/Reflection-Journal/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 04 Feb 2026 13:46:19 +0530</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://github.com/nainsi25ug-hub/Reflection-Journal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction</title>
-      <link>https://example.org/posts/introduction/</link>
+      <link>https://github.com/nainsi25ug-hub/Reflection-Journal/posts/introduction/</link>
       <pubDate>Wed, 04 Feb 2026 13:46:19 +0530</pubDate>
-      <guid>https://example.org/posts/introduction/</guid>
+      <guid>https://github.com/nainsi25ug-hub/Reflection-Journal/posts/introduction/</guid>
       <description></description>
     </item>
     <item>
-      <title>My First Post</title>
-      <link>https://example.org/posts/my-first-post/</link>
+      <title> My Reflection Journal </title>
+      <link>https://github.com/nainsi25ug-hub/Reflection-Journal/posts/my-first-post/</link>
       <pubDate>Wed, 28 Jan 2026 12:30:52 +0530</pubDate>
-      <guid>https://example.org/posts/my-first-post/</guid>
-      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;&#xA;&lt;p&gt;I am Nainsi Priya, a student of Azim Premji University majoring in Information Science disciplinary. I am creating this reflection journal as part of my &lt;strong&gt;coursework&lt;/strong&gt;. I will be jounaling my reflection and learnings of the classes throughout the course.&lt;/p&gt;&#xA;&lt;h2 id=&#34;week1&#34;&gt;WEEK1&lt;/h2&gt;</description>
+      <guid>https://github.com/nainsi25ug-hub/Reflection-Journal/posts/my-first-post/</guid>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;&#xA;&lt;p&gt;I am Nainsi Priya, a student of Azim Premji University majoring in Information Science disciplinary. I am creating this reflection journal as part of my &lt;strong&gt;coursework&lt;/strong&gt;. I will be jounaling my reflection and learnings of the classes throughout the course.&lt;/p&gt;&#xA;&lt;h2 id=&#34;unit-1&#34;&gt;Unit 1&lt;/h2&gt;&#xA;&lt;p&gt;At the beginning Dikw model work as a loop in terms of AI at the knowledge level. The more information it gets, the better. The more it will generate output.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/posts/introduction/</loc>
+    <loc>https://github.com/nainsi25ug-hub/Reflection-Journal/posts/introduction/</loc>
     <lastmod>2026-02-04T13:46:19+05:30</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://github.com/nainsi25ug-hub/Reflection-Journal/</loc>
     <lastmod>2026-02-04T13:46:19+05:30</lastmod>
   </url><url>
-    <loc>https://example.org/posts/</loc>
+    <loc>https://github.com/nainsi25ug-hub/Reflection-Journal/posts/</loc>
     <lastmod>2026-02-04T13:46:19+05:30</lastmod>
   </url><url>
-    <loc>https://example.org/posts/my-first-post/</loc>
+    <loc>https://github.com/nainsi25ug-hub/Reflection-Journal/posts/my-first-post/</loc>
     <lastmod>2026-01-28T12:30:52+05:30</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://github.com/nainsi25ug-hub/Reflection-Journal/categories/</loc>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://github.com/nainsi25ug-hub/Reflection-Journal/tags/</loc>
   </url>
 </urlset>
