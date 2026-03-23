@@ -6,8 +6,15 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Feb 2026 13:46:19 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 23:34:10 +0530</lastBuildDate>
     <atom:link href="https://github.com/nainsi25ug-hub/Reflection-Journal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unit2</title>
+      <link>https://github.com/nainsi25ug-hub/Reflection-Journal/posts/unit2/</link>
+      <pubDate>Mon, 23 Mar 2026 23:34:10 +0530</pubDate>
+      <guid>https://github.com/nainsi25ug-hub/Reflection-Journal/posts/unit2/</guid>
+      <description>&lt;h2 id=&#34;unit-2--fun-with-image-optimization-and-formal-analysis&#34;&gt;Unit 2 : Fun with image, Optimization and formal analysis,&lt;/h2&gt;&#xA;&lt;p&gt;Fun with image : Image tranformation was totally new for me. Studying about pixels and how tiny information are stored in an image can be compared with the concept of atoms and molecules (if we zoom into the concept). I personally liked the idea of connecting Blurring an image with matrices. Most of the transformation of images topics can be related with studying algebra and geometry, for example reflection of an image was like reflecting a straight line in its opposite quardrant.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Introduction</title>
       <link>https://github.com/nainsi25ug-hub/Reflection-Journal/posts/introduction/</link>
