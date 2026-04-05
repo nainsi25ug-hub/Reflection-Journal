@@ -3,7 +3,7 @@ date = '2026-03-23T23:34:10+05:30'
 draft = false
 title = 'Unit2'
 +++
-## Unit 2 : Fun with image, Optimization and formal analysis, 
+## Unit 2 : Fun with image, Optimization and formal analysis
  
  Fun with image : Image tranformation was totally new for me. Studying about pixels and how tiny information are stored in an image can be compared with the concept of atoms and molecules (if we zoom into the concept). I personally liked the idea of connecting Blurring an image with matrices. Most of the transformation of images topics can be related with studying algebra and geometry, for example reflection of an image was like reflecting a straight line in its opposite quardrant.
 
